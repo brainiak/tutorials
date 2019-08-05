@@ -1,7 +1,7 @@
 #!/bin/bash -i
-#SBATCH --t 20
+#SBATCH -t 20
 #SBATCH --mem-per-cpu=8G
-#SBATCH --n 2
+#SBATCH -n 2
 #SBATCH --job-name fcma_voxel_select_cv
 #SBATCH --output=../logs/fcma_voxel_select_cv-%j.out
 

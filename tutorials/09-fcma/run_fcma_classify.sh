@@ -1,7 +1,7 @@
 #!/bin/bash -i
-#SBATCH --t 15
+#SBATCH -t 15
 #SBATCH --mem-per-cpu=12G
-#SBATCH --n 2
+#SBATCH -n 2
 #SBATCH --job-name fcma_classify
 #SBATCH --output=../logs/fcma_classify-%j.out
 
