@@ -6,4 +6,4 @@ Advanced fMRI analyses have the potential to answer questions that mainstream me
 
 Detailed information is available here: https://brainiak.org/tutorials
 
-If you are an instructor interested in using these materials for a course, we would be happy to share our experiences from teaching these materials. You may contact any of the creators directly or via our [Gitter](https://gitter.im/brainiak/brainiak).
+If you are an instructor interested in using these materials for a course, we would be happy to share our experiences from teaching these materials. You may contact any of the creators directly or via the [BrainIAK chat room on Gitter](https://gitter.im/brainiak/brainiak) or the [BrainIAK email list](mailto:brainiak@googlegroups.com).
