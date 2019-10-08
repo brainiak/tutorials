@@ -4,7 +4,7 @@
 #SBATCH --output=generate_data-%j.out
 #SBATCH --job-name generate_data
 #SBATCH -t 30
-#SBATCH -m=4G
+#SBATCH --mem=4G
 #SBATCH -n 1
 
 # Check you are in the correct directory
